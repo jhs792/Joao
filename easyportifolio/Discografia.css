@@ -1,0 +1,58 @@
+header {
+    background: black;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+    color:white ;
+    }
+    
+
+    *{
+      padding:0;
+      margin: 0px;
+      box-sizing: border-box;
+    }
+
+
+    body{background-color: silver;
+        margin :10px;
+        text-align: center;
+    }
+    
+    
+        
+
+  nav{ display: flex;
+    list-style-type:  none;
+    padding: 10px;
+    font-family: italic; 
+    justify-content: space-evenly;}  
+          
+           
+            
+ a{color: white;
+ text-decoration: none;}
+
+
+ main{ 
+    text-align: center;
+   padding:20px;
+   padding-left: 350px;
+   padding-right: 350px;
+  ;}
+
+   h1{
+    padding: 20px;
+   }
+
+   p{
+    font-size: 15pt;
+  font-family: 'Roboto', sans-serif;
+  padding: 30px;  
+  }
+
+
+
+
+              
